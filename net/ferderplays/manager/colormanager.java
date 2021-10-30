@@ -59,6 +59,10 @@ public class colormanager {
     colors.add(r = 17, g = 17, b = 18).as("53");
     colors.add(r = 17, g = 18, b = 18).as("54");
     colors.add(r = 18, g = 18, b = 18).as("55");
+    colors.add(r = 18, g = 18, b = 19).as("56");
+    colors.add(r = 18, g = 19, b = 19).as("57");
+    colors.add(r = 19, g = 19, b = 19).as("58");
+    colors.add(r = 19, g = 19, b = 20).as("59");
 
     void colorregister() {
         this.GUI.setcolor();
