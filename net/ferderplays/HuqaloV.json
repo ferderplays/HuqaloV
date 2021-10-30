@@ -1,8 +1,12 @@
 {
     "version": "1.0.0",
-    "devs": [
+    "leaddeveleper": [
         "ferderplays",
-        "sulinkq",
+    ],
+    "mixindeveloper": [
+        "sulinkq"
+    ],
+    "loaderdeveloper": [
         "v390n1ck"
     ]
 }
