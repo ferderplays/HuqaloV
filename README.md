@@ -1,3 +1,10 @@
 # HuqaloV
 <p>HuqaloV is a mc utility mod for  1.12.2</p>
-<img src="https://img.shields.io/badge/dynamic/json?color=gold&label=version&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2FFERDdeveloper%2FHuqaloV%2Fmain%2Fnet%2Fferderplays%2FHuqaloV.json">
+<img src="https://shields.io/badge/version-1.0.0-gold">
+<img src="https://shields.io/badge/devs-ferderplays,%20sulinkq,%20v390n1ck-gold">
+<a href="https://huqalovnet.ferder.repl.co/">
+  <img src="https://shields.io/badge/website-online-gold">
+</a>
+<a href="https://discord.gg/9KZpwxUkeH">
+  <img src="https://shields.io/badge/discord-exists-gold">
+</a>
