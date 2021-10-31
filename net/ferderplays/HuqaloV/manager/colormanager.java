@@ -63,12 +63,85 @@ public class colormanager {
     colors.add(r = 18, g = 19, b = 19).as("57");
     colors.add(r = 19, g = 19, b = 19).as("58");
     colors.add(r = 19, g = 19, b = 20).as("59");
+    colors.add(r = 19, g = 20, b = 20).as("60");
+    colors.add(r = 20, g = 20, b = 20).as("61");
+    colors.add(r = 20, g = 20, b = 21).as("62");
+    colors.add(r = 20, g = 21, b = 21).as("63");
+    colors.add(r = 21, g = 21, b = 21).as("64");
+    colors.add(r = 21, g = 21, b = 22).as("65");
+    colors.add(r = 21, g = 22, b = 22).as("66");
+    colors.add(r = 22, g = 22, b = 22).as("57");
 
     void colorregister() {
-        this.GUI.setcolor();
+        this.GUI.setcolor("<colors.color>");
     }
 
     void colorunregister() {
-        this.GUI.changecolor();
+        this.GUI.changecolor().to("<colors.color>");
+    }
+
+    void rainbow() {
+        this.GUI.setcolor(1);
+        if (this.GUI.setcolor(1)) {
+            this.gui.changecolor().to(2);
+        } else if (this.GUI.changecolor().to(2)) {
+            this.GUI.changecolor().to(3);
+        } else if (this.GUI.changecolor().to(3)) {
+            this.GUI.changecolor().to(4);
+        } else if (this.GUI.changecolor().to(4)) {
+            this.GUI.changecolor().to(5);
+        } else if (this.GUI.changecolor().to(5)) {
+            this.GUI.changecolor().to(6);
+        } else if (this.GUI.changecolor().to(6)) {
+            this.GUI.changecolor().to(7);
+        } else if (this.GUI.changecolor().to(7)) {
+            this.GUI.changecolor().to(8);
+        } else if (this.GUI.changecolor().to(8)) {
+            this.GUI.changecolor().to(9);
+        } else if (this.GUI.changecolor().to(9)) {
+            this.GUI.changecolor().to(10);
+        } else if (this.GUI.changecolor().to(10)) {
+            this.GUI.changecolor().to(11);
+        } else if (this.GUI.changecolor().to(11)) {
+            this.GUI.changecolor().to(12);
+        } else if (this.GUI.changecolor().to(12)) {
+            this.GUI.changecolor().to(13);
+        } else if (this.GUI.changecolor().to(13)) {
+            this.GUI.changecolor().to(14);
+        } else if (this.GUI.changecolor().to(14)) {
+            this.GUI.changecolor().to(15);
+        } else if (this.GUI.changecolor().to(15)) {
+            this.GUI.changecolor().to(16);
+        } else if (this.GUI.changecolor().to(16)) {
+            this.GUI.changecolor().to(17);
+        } else if (this.GUI.changecolor().to(17)) {
+            this.GUI.changecolor().to(18);
+        } else if (this.GUI.changecolor().to(18)) {
+            this.GUI.changecolor().to(19);
+        } else if (this.GUI.changecolor().to(19)) {
+            this.GUI.changecolor().to(20);
+        } else if (this.GUI.changecolor().to(20)) {
+            this.GUI.changecolor().to(21);
+        } else if (this.GUI.changecolor().to(21)) {
+            this.GUI.changecolor().to(22);
+        } else if (this.GUI.changecolor().to(22)) {
+            this.GUI.changecolor().to(23);
+        } else if (this.GUI.changecolor().to(23)) {
+            this.GUI.changecolor().to(24);
+        } else if (this.GUI.changecolor().to(24)) {
+            this.GUI.changecolor().to(25);
+        } else if (this.GUI.changecolor().to(25)) {
+            this.GUI.changecolor().to(26);
+        } else if (this.GUI.changecolor().to(26)) {
+            this.GUI.changecolor().to(27);
+        } else if (this.GUI.changecolor().to(27)) {
+            this.GUI.changecolor().to(28);
+        } else if (this.GUI.changecolor().to(28)) {
+            this.GUI.changecolor().to(29);
+        } else if (this.GUI.changecolor().to(29)) {
+            this.GUI.changecolor().to(30);
+        } else if (this.GUI.changecolor().to(30)) {
+            this.GUI.changecolor().to(31);
+        }
     }
 }
