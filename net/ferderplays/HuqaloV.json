@@ -1,8 +1,9 @@
 {
     "version": "1.0.0"
 }
-{
-    "leaddeveloper": "ferderplays"
-    "mixindeveloper": "sulinkq"
-    "loaderdeveloper": "v390n1ck"
+{   "devs": {
+        "leaddeveloper": "ferderplays"
+        "mixindeveloper": "sulinkq"
+        "loaderdeveloper": "v390n1ck"
+    }
 }
